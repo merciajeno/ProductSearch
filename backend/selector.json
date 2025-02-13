@@ -1,0 +1,9 @@
+[{
+    "websiteName":"amazon.in",
+    "currencySelector":".a-price-symbol",
+    "productNameSelector":"#productTitle",
+    "productPriceSelector":".a-price-whole"
+},
+{
+    
+}]
